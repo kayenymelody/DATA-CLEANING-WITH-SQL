@@ -28,6 +28,8 @@ This dataset was obtained from maven analytics. It has a total of 25614 rows wit
 
 ![](https://github.com/kayenymelody/DATA-CLEANING-WITH-SQL/blob/main/shark%20image1.png)
 
+![](https://github.com/kayenymelody/DATA-CLEANING-WITH-SQL/blob/main/shark_image2.png)
+
 
 
 
